@@ -1,0 +1,18 @@
+{
+  "start": "Começar",
+  "restart": "Reiniciar",
+  "answer": "Responda",
+  "good": "Sim!",
+  "wrong": "Ops",
+  "game_done": "Acabou!",
+  "attempts": "Tentativas",
+  "correct": "Corretas",
+  "accuracy": "Precisão",
+  "reset_stats": "Estatísticas zeradas! Aperte <b>Começar</b> para jogar de novo ✨",
+  "hardest": "Jogue mais um pouco que te digo o que parece mais difícil.",
+  "learning": "Ainda estou aprendendo sobre você!",
+  "hard_now": "Mais difícil agora",
+  "weight": "Peso",
+  "time": "Tempo médio",
+  "start_msg": "Clique em <b>Começar</b> ✨"
+}

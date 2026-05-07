@@ -1,0 +1,18 @@
+{
+  "start": "Start",
+  "restart": "Restart",
+  "answer": "Pick the answer",
+  "good": "Great job!",
+  "wrong": "Oops",
+  "game_done": "Game done!",
+  "attempts": "Attempts",
+  "correct": "Correct",
+  "accuracy": "Accuracy",
+  "reset_stats": "Stats reset! Press <b>Start</b> to play again ✨",
+  "hardest": "Play a little more and I tell you what looks hard to you.",
+  "learning": "I am still learning about you!",
+  "hard_now": "Hardest right now",
+  "weight": "Weight",
+  "time": "Time (avg)",
+  "start_msg": "Click <b>Start</b> ✨"
+}
