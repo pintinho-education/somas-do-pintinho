@@ -1,0 +1,5 @@
+[tool.pyscript]
+files = [
+  "lang/en.json",
+  "lang/pt.json"
+]
